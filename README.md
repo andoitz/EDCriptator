@@ -1,8 +1,7 @@
-######################################################
-######################## INFO ########################
-######################################################
+INFORMATION
 
 	*** Script created by Andoitz Jordán ***
+	
 	Please visit http://www.andoitz.com for get more information.
 
 	¿How to use it?
@@ -39,11 +38,10 @@
 	- NEW GENERAL KEY MEANS THAT WE WILL CHANGE ALL PASSWORDS (SECURITY SYSTEM)
 		savedPassword = enc(realPassword,seed);
 
-################################
-########### EXAMPLES ###########
-################################
+EXAMPLES
 
 *** Script created by Andoitz Jordán ***
+
 Please visit http://www.andoitz.com for get more information.
 
 	$EDCriptator = new EDCriptator();
